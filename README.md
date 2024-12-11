@@ -1,1 +1,1 @@
-# sprint-boot-graphql
+# spring-boot-graphql
